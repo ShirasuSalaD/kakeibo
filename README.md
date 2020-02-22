@@ -1,24 +1,62 @@
-# README
+![Kakeibo]()
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2 align="center">Kakeibo</h2>
 
-Things you may want to cover:
+<p align="center">
+  <a href="https://rubyonrails.org/"><img src="https://user-images.githubusercontent.com/27852808/75099064-b2ebad80-5600-11ea-9eb2-79721c29359b.png" width="80px;" /></a><br>
+<a>　</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"><img src="https://user-images.githubusercontent.com/39142850/71645957-1ead4a80-2d23-11ea-9201-7261df80db57.jpg" height="45px;" /></a>
+<a>　</a>
+  <a href="https://www.heroku.com/"><img src="https://user-images.githubusercontent.com/27852808/75099100-11189080-5601-11ea-9f62-abdea8bae36a.png" height="45px;" /></a>
+</p>
+<br><br><br>
 
-* Ruby version
+## 🌐 App URL
 
-* System dependencies
+### **https://ssd-kakeibo-app.herokuapp.com/**  
+　
+## 💬 Usage
 
-* Configuration
+`$ git clone https://github.com/ShirasuSalaD/kakeibo.git`  <br><br>
 
-* Database creation
 
-* Database initialization
+## 📦 Features
 
-* How to run the test suite
+<h3 align="center">- basic CRUD -</h3>
 
-* Services (job queues, cache servers, search engines, etc.)
+<p align="center">
+  <img src="" width=70%>
+</p>
 
-* Deployment instructions
+---
 
-* ...
+<h3 align="center">- CSS Design -</h3>
+
+<p align="center">
+  <img src="" width=70%>
+</p>
+
+---
+
+<h3 align="center">- Responsive design -</h3>
+
+<p align="center">
+  <img src="" width=30%>
+</p> 
+
+---
+
+<h3 align="center">- PWA -</h3>
+
+<p align="center">
+  <img src="" width=40%>
+</p>
+
+---
+　
+
+## 👀 Author
+
+- [Github](https://github.com/ShirasuSalaD)
+- [Twitter](https://twitter.com/morimo_lit)
+- [Qiita](https://qiita.com/ShirasuSalaD)
