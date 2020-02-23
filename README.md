@@ -22,7 +22,7 @@
 
 ## 📦 Features
 
-<h3 align="center">- basic CRUD -</h3>
+<h3 align="center">- Basic CRUD -</h3>
 
 <p align="center">
   <img src="" width=70%>
