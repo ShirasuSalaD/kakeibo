@@ -3,15 +3,17 @@
 <%= link_to "編集", [:edit, @variablecost] %>
 <%= link_to "変動費科目一覧へ戻る", :variablecosts %>
 
-<table>
+<div class='controls'>
+	<table>
 
-	<tr>
-    <th>名称</th>
-    <td><%= @variablecost.name %></td>
-  </tr>
+		<tr>
+			<th>名称</th>
+			<td><%= @variablecost.name %></td>
+		</tr>
 
-	<tr>
-		<th>説明</th>
-		<td><%= @variablecost.description %></td>
-	</tr>
-</table>
+		<tr>
+			<th>説明</th>
+			<td><%= @variablecost.description %></td>
+		</tr>
+	</table>
+</div>

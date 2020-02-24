@@ -1,26 +1,34 @@
-<h1>Kakeibo</h1>
-<%# <p>シンプルな家計簿アプリです。</%#> %>
+<div class='controls'>
+	<img alt="Kakeibo" src="/assets/logo.png" />
 
-<h2>科目設定</h2>
-<ul>
-	<li><%= link_to "収入科目設定", :incomes %></li>
-</ul>
+	<div class='controls'>
+		<h2>Kakeiboとは？🤔</h2>
+		<p>あなたの生活を豊かに管理する家計簿アプリです。</p>
+	</div>
 
-<ul>
-	<li><%= link_to "固定費科目設定", :fixedcosts %></li>
-</ul>
-
-<ul>
-	<li><%= link_to "変動費科目設定", :variablecosts %></li>
-</ul>
-
-<h2>収支登録</h2>
-<ul>
-	<li><%= link_to "収入金額登録", :income_values %></li>
-</ul>
-<ul>
-	<li><%= link_to "固定費金額登録", :fixedcost_values %></li>
-</ul>
-<ul>
-	<li><%= link_to "変動費金額登録", :variablecost_values %></li>
-</ul>
+	<div class='controls'>
+		<h2>科目設定⚙</h2>
+		<ul>
+			<li><%= link_to "収入科目設定", :incomes %></li>
+		</ul>
+		<ul>
+			<li><%= link_to "固定費科目設定", :fixedcosts %></li>
+		</ul>
+		<ul>
+			<li><%= link_to "変動費科目設定", :variablecosts %></li>
+		</ul>
+	</div>
+	
+	<div class='controls'>
+		<h2>収支登録📝</h2>
+		<ul>
+			<li><%= link_to "収入金額登録", :income_values %></li>
+		</ul>
+		<ul>
+			<li><%= link_to "固定費金額登録", :fixedcost_values %></li>
+		</ul>
+		<ul>
+			<li><%= link_to "変動費金額登録", :variablecost_values %></li>
+		</ul>
+	</div>
+</div>
