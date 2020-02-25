@@ -21,8 +21,11 @@
 　
 ## 💬 Usage
 
-`$ git clone https://github.com/ShirasuSalaD/kakeibo.git`  <br><br>
-
+`$ git clone https://github.com/ShirasuSalaD/kakeibo.git`  <br>
+`$ cd kakeibo`  <br>
+`$ bundle install`  <br>
+`$ bin/rails s`  <br><br>
+localhost:3000 へアクセス
 
 ## 📦 Features
 
